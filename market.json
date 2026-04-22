@@ -7,7 +7,7 @@
       "version": "1.0.0",
       "author": "OpenClaw",
       "description": "示例市场插件：/你好",
-      "url": "",
+      "url": "https://raw.githubusercontent.com/3026591236/qqbot-plugin-market/main/plugins/market_hello.py",
       "sha256": "bb6484b60550784e6efb8bc91b4eb101ebe32c79e9f71a3838eb017a9d1b41f6"
     },
     {
@@ -15,7 +15,7 @@
       "version": "1.0.0",
       "author": "OpenClaw",
       "description": "示例市场插件：/时间",
-      "url": "",
+      "url": "https://raw.githubusercontent.com/3026591236/qqbot-plugin-market/main/plugins/market_time.py",
       "sha256": "3c53ae9a85d1fbaabb00ca32d3885b42c444b7c816bf93eb75756009e90b4e04"
     }
   ]
