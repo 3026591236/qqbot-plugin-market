@@ -1,6 +1,6 @@
 {
   "schema": "qqbot.plugin.market.v1",
-  "updated_at": "2026-04-22T11:14:10Z",
+  "updated_at": "2026-04-22T11:16:09Z",
   "plugins": [
     {
       "name": "market-hello",
@@ -8,7 +8,7 @@
       "author": "OpenClaw",
       "description": "示例市场插件：/你好",
       "url": "",
-      "sha256": "5acbb81c18b44ccd151112017be1934565fc4528bf9cc53230cb334ebf316b51"
+      "sha256": "bb6484b60550784e6efb8bc91b4eb101ebe32c79e9f71a3838eb017a9d1b41f6"
     },
     {
       "name": "market-time",
@@ -16,7 +16,7 @@
       "author": "OpenClaw",
       "description": "示例市场插件：/时间",
       "url": "",
-      "sha256": "cecb4f892310cf6018f88e93615fed41527d8a8ebc877b9ac09089e29c4436b1"
+      "sha256": "3c53ae9a85d1fbaabb00ca32d3885b42c444b7c816bf93eb75756009e90b4e04"
     }
   ]
 }

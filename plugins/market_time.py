@@ -5,10 +5,10 @@ from datetime import datetime, timezone
 from app.core.plugin import CommandPlugin, PluginMeta
 
 plugin = CommandPlugin(
-    name="market_time",
+    name="market-time",
     command="/时间",
     description="market demo time",
-    meta=PluginMeta(name="market_time", version="1.0.0", author="qqbot-plugin-market", description="示例市场插件：/时间"),
+    meta=PluginMeta(name="market-time", version="1.0.0", author="qqbot-plugin-market", description="示例市场插件：/时间"),
 )
 
 
